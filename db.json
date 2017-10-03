@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    { 
+        "id": 1,
+        "firstName": "John",
+        "secondName": "Doe",
+        "phone": 380666666666,
+        "birthday": "01.01.2000",
+        "website": "http://example.com",
+        "email": "john.doe@example.com",
+        "company": "freelance"
+    },
+        { 
+        "id": 1,
+        "firstName": "Ilia",
+        "secondName": "Klimov",
+        "phone": 380666666666,
+        "birthday": "01.01.2000",
+        "website": "http://example.com",
+        "email": "john.doe@example.com",
+        "company": "medium"
+    }
+  ],
+  "profile": { "name": "typicode" }
+}
